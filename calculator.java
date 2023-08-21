@@ -8,6 +8,6 @@ public class calculator {
     System.out.println(a*b);
     System.out.println(a%b);
     System.out.println(b/a);
-    ;
+    
   }
 }
